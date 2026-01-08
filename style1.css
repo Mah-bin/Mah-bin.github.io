@@ -40,7 +40,7 @@ h1 {
 
 .profile {
     position: absolute;
-    top: 235px;
+    top: 245px;
     right: 150px;
     width: 400px;
     height: 400px;
@@ -70,3 +70,4 @@ h1 {
     color: rgb(59, 179, 209);
     transform: scale(1.2);
 }
+
